@@ -1,4 +1,5 @@
-#DataWise
+# DataWise
+
 DataWise is an innovative data intelligence tool that empowers users to gain insights into their data effortlessly. Designed for both data analysts and casual users, DataWise transforms natural language queries into MongoDB commands, enabling users to extract valuable information from their datasets.
 
 Key Features:
